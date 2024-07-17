@@ -2,7 +2,7 @@ package com.ada.exercicies_ada_tech.exercicio;
 
 import java.util.Scanner;
 
-public class DayWeek {
+public class DiaDaSemana {
 
     public static void main(String[] args) {
 
