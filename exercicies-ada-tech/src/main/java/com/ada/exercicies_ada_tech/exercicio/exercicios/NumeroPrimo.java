@@ -1,4 +1,4 @@
-package com.ada.exercicies_ada_tech.exercicio;
+package com.ada.exercicies_ada_tech.exercicio.exercicios;
 
 import java.util.Scanner;
 import java.util.stream.IntStream;
