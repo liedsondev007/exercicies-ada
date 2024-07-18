@@ -47,5 +47,38 @@ para as verificações.
 Peça ao usuário para inserir três números inteiros. Utilize
 `println` para mostrar o maior número inserido.
 
+## Exercício 1: Enum com Switch-Case e Scanner
+Crie um enum chamado `OperacaoMatematica` representando
+operações matemáticas básicas (+, -, *, /).
+
+Utilize um Scanner para obter a operação do usuário e
+realizar o cálculo com dois números.
+
+## Exercício 2: Enum com Switch-Case e Scanner
+Crie um enum chamado `CategoriaProduto` representando
+categorias de produtos ``(ELETRONICO, VESTUARIO, ALIMENTO)``.
+
+Utilize um Scanner para obter a categoria do usuário e
+imprima uma mensagem correspondente.
+
+## Exercício 3: Enum com Switch-Case e Scanner
+Crie um enum chamado ``UnidadeTemperatura`` representando
+unidades de temperatura ``(CELSIUS, FAHRENHEIT, KELVIN)``.
+
+Escreva um programa que utiliza um Scanner para obter a
+unidade de temperatura atual do usuário e a unidade
+desejada, pedindo a temperatura atual e imprimindo a
+temperatura convertida.
+
+- CELSIUS:
+F -> (celsius * 9 / 5) + 32
+K -> celsius + 273.15
+- FAHRENHEIT:
+C -> (fehrenheit - 32) * 5 / 9
+k -> (fehrenheit + 459.67) * 5 / 9
+- KELVIN:
+C-> kelvin - 273.15
+F-> (kelvin * 9 / 5) - 459.67
+
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests e/ou enviar um feedback pro meu código.
